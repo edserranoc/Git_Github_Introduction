@@ -1,3 +1,4 @@
 *.html
 .intro.txt
 .venv_python/
+.venv/
